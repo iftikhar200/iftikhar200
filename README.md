@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @iftikhar200
 - 👀 I’m interested in data science, machine learning, and AI development.
-- 🌱 I’m currently learning Python, C#, and data manipulation techniques.
 - 💞️ I’m looking to collaborate on machine learning projects and data analysis.
-- 📫 How to reach me: [your email] or connect with me on [LinkedIn/other social media].
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love exploring new technologies and creating innovative solutions!
